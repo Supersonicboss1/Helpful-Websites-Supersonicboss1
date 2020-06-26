@@ -8,9 +8,9 @@ This is a collection of helpful websites I have found for various things, such a
 
 - [NXBrew](https://nxbrew.com/) is a piracy site containing most games you would want for switch, in DDL and torrent form.
 
-- The [Switch Pirates](https://www.reddit.com/r/SwitchPirates/) Subreddit contins many things related to piracy, and can be very helpful if you run into any issues.
+- The [Switch Pirates](https://www.reddit.com/r/SwitchPirates/) Subreddit contains many things related to piracy, and can be very helpful if you run into any issues.
 
-- The [SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Subreddit contains many game NSPs, if NXbrew happens to either not have it, or its link is down.
+- The [SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Subreddit contains many game NSPs, and can be helpful if NXbrew happens to either not have it, or its link is down. Keep in mind older games's links will often not work.
 
 ### Sigpatches
 
@@ -20,13 +20,13 @@ This is a collection of helpful websites I have found for various things, such a
 
 ## General
 
-- The [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) Github repo contains the latest files for the current CFW, as well as the Fusee-Primary Payload for launch.
+- The [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) Github repo contains the latest files for the current CFW, as well as the Fusee-Primary payload for launch.
 
-- The [Hekate](https://github.com/CTCaer/hekate/releases/) Github Repo contains the latest files for the current bootloader, as well as the payload needed for launch
+- The [Hekate](https://github.com/CTCaer/hekate/releases/) Github Repo contains the latest files for the current bootloader, as well as the payload needed for launch.
 
 - [Switch Cheat Updater](https://github.com/HamletDuFromage/switch-cheats-updater) by HamletDuFromage allows you to easily update your cheats directly from the switch.
 
-- [EmuTool](https://github.com/XorTroll/emuiibo) is a program for emuiibo which is designed to allow you to easily create amiibo files for it. There is also a [Python Script](https://gist.github.com/igoticecream/6b5fe3c2086fde2f9d634740be855f80) which achives the same perpose, but downloads all at once.
+- [EmuTool](https://github.com/XorTroll/emuiibo) is a program for emuiibo which is designed to allow you to easily create amiibo files for it. There is also a [Python Script](https://gist.github.com/igoticecream/6b5fe3c2086fde2f9d634740be855f80) which achives the same purpose, but downloads all at once.
 
 - [NS-USBLoader](https://github.com/developersu/ns-usbloader) is a program that allows you to install NSP files to your switch directly from your PC.
 
@@ -34,7 +34,7 @@ This is a collection of helpful websites I have found for various things, such a
 
 ## Game Specific
 
-- [ACNH Pattern Design Editor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) allows you to easily import and create patterns for Animal Crossing, and inject them into your save file
+- [ACNH Pattern Design Editor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) allows you to easily import and create patterns for Animal Crossing, and inject them into your save file.
 
 ### Save Editors
 
