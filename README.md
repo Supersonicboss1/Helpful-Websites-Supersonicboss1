@@ -9,11 +9,11 @@ This is a collection of helpful websites I have found for various things.
 
 ## Piracy
 
-- [NXBrew](temp) is a piracy site containing most games you would want for switch, in DDL and torrent form.
+- [NXBrew](https://nxbrew.com/) is a piracy site containing most games you would want for switch, in DDL and torrent form.
 
-- The [Switch Pirates](temp) Subreddit contins many things related to piracy, and can be very helpful if you run into any issues.
+- The [Switch Pirates](https://www.reddit.com/r/SwitchPirates/) Subreddit contins many things related to piracy, and can be very helpful if you run into any issues.
 
-- The [NXNSPs](temp) Subreddit contains lots of game files, if NXbrew happens to either not have it, or is down.
+- The [SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Subreddit contains many game NSPs, if NXbrew happens to either not have it, or its link is down.
 
 ### Sigpatches
 
@@ -25,6 +25,6 @@ This is a collection of helpful websites I have found for various things.
 
 ## General
 
-- The [Atmosphere]() Github repo contains the latest files for the current CFW, as well as the Fusee-Primary Payload for launch.
+- The [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) Github repo contains the latest files for the current CFW, as well as the Fusee-Primary Payload for launch.
 
-- The [Hekate]() Github Repo contains the latest files for the current bootloader, as well as the payload needed for launch
+- The [Hekate](https://github.com/CTCaer/hekate/releases/) Github Repo contains the latest files for the current bootloader, as well as the payload needed for launch
