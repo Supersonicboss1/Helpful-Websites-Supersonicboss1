@@ -22,7 +22,7 @@
 
 - [CreamAPI]() is a general-perpose steam drm bypass. [SSE](https://github.com/MAXBURAOT/SmartSteamEmu) also does a similar thing.
 
-- [cs.rin.ru/forum](cs.rin.ru/forum) is a general-perpose piracy forum and very helpful for almost any game.
+- <cs.rin.ru/forum> is a general-perpose piracy forum and very helpful for almost any game.
 
 
 ### The Sims 4
