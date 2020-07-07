@@ -1,0 +1,6 @@
+site_name: Useful Websites
+theme: material
+nav:
+  - Home: index.md
+  - Nintendo Switch: nx.md
+  - PC: pc.md
