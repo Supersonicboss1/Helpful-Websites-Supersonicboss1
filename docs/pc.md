@@ -20,10 +20,11 @@
 
 ### Piracy
 
-- [CreamAPI]() is a general-perpose steam drm bypass. [SSE](https://github.com/MAXBURAOT/SmartSteamEmu) also does a similar thing.
+- CreamAPI is a Steam drm bypass for DLC. It only workks if the DLC files already exist in your files, and need to be edited for specific games.
+
+- [SSE](https://github.com/MAXBURAOT/SmartSteamEmu) is a general-purpose Steam DRM bypass.
 
 - <cs.rin.ru/forum> is a general-perpose piracy forum and very helpful for almost any game.
-
 
 ### The Sims 4
 
@@ -33,4 +34,4 @@
 
 ### Cities Skylines
 
-- The [Paradox Laucher CreamAPI Crack](https://mega.nz/folder/45YBwIxZ#fsZNZZu9twY2PVLgrB86fA) allows you to play pirated versions of the DLC for Cities Skylines and other paradox games, without owning them. 
+- The [Paradox Laucher CreamAPI Crack](https://mega.nz/folder/45YBwIxZ#fsZNZZu9twY2PVLgrB86fA) allows you to play pirated versions of the DLC for Cities Skylines and other paradox games, without owning them.
