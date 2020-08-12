@@ -14,6 +14,7 @@
 
 - [Advanced Renamer](https://www.advancedrenamer.com/) is a powerful tool for batch renaming files.
 
+- [Unsplash](https://unsplash.com/) and [Wallhaven](https://wallhaven.cc/) are both wallpaper websites with a large selection to choose from.
 ---
 
 ## Gaming
