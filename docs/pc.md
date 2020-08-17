@@ -15,24 +15,11 @@
 - [Advanced Renamer](https://www.advancedrenamer.com/) is a powerful tool for batch renaming files.
 
 - [Unsplash](https://unsplash.com/) and [Wallhaven](https://wallhaven.cc/) are both wallpaper websites with a large selection to choose from.
----
 
 ## Gaming
 
-### Piracy
+- [Steam Depot Downloader](https://github.com/SteamRE/DepotDownloader) is a program that allows you to download any version of a Steam game using it's ID and manifest. Useful if updates break things such as mods.
 
-- CreamAPI is a Steam drm bypass for DLC. It only workks if the DLC files already exist in your files, and need to be edited for specific games.
+- [SteamDB](https://steamdb.info/) is a very useful website containing almost anything you could want to know about a Steam game, and contains the previously mentioned ID's and manifests.
 
-- [SSE](https://github.com/MAXBURAOT/SmartSteamEmu) is a general-purpose Steam DRM bypass.
-
-- <cs.rin.ru/forum> is a general-perpose piracy forum and very helpful for almost any game.
-
-### The Sims 4
-
-- [The Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=20&t=102519) by anadius on cs.rin.ru allows you to easily update your pirated Sims 4 game, including DLC!
-
-- The [Origin DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) by anadius for The Sims 4 allows owners of legitimate games to unlock all of the DLC for the game, and use the library in-game downloader!
-
-### Cities Skylines
-
-- The [Paradox Laucher CreamAPI Crack](https://mega.nz/folder/45YBwIxZ#fsZNZZu9twY2PVLgrB86fA) allows you to play pirated versions of the DLC for Cities Skylines and other paradox games, without owning them.
+- [UWPDumper](https://github.com/Wunkolo/UWPDumper) is a program that allows you to dump any Windows Store application at runtime, which can then be modified and readded with it's appxmanifest.xml file.
