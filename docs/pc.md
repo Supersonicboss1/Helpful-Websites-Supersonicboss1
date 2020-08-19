@@ -24,6 +24,10 @@
 
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) is a program that allows you to dump any Windows Store application at runtime, which can then be modified and readded with it's appxmanifest.xml file.
 
+- [Process Hacker](https://processhacker.sourceforge.io/) is a multi-purpose tool which can be used to monitor hardware performance, lock process priorities, and get a more detailed look at which programs are using your hardware.
+
+- Windows has a built in compression tool called *compact* which allows you to compress any file, which will then be automatically uncompressed at runtime. Github user ImminentFate has made a program called [CompactGUI,](https://github.com/ImminentFate/CompactGUI) which is a sleek and modern GUI for the tool.
+
 ## Virtual Reality
 This is a collection of websites, tools, and files that are helpful for Virtual Reality. These will mostly be related to Oculus.
 
