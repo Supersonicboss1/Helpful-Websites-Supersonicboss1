@@ -30,6 +30,8 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 - [jits.cc](https://www.jits.cc) is a "shop" for the switch homebrew app [Tinfoil](https://www.tinfoil.io) which allows you to download games directly on to the switch. You simply enter the link into Tinfoil, and you can start downloading.
 
+- [Rebirth](https://www.discord.io/rebirth-nx) is a discord server and website which hosts games to download. To get download links, you need to be level 2 on the discord server and go to [this link](http://2d72rfpqatjnwsuzzgftczair5cijrmxq7l5zjhmqk4hvc55p5bs2lyd.onion/) in [Tor Browser](https://www.torproject.org/download/)
+
 ### Sigpatches
 
 These Signature patches are for different boot methods, either fusee-primary, or hekate. These are frequently DMCA'd, so these links may no longer work.
