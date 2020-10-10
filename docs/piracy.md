@@ -28,7 +28,7 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 - The [SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Subreddit contains many game NSPs, and can be helpful if NXbrew happens to either not have it, or its link is down. Keep in mind older games's links will often not work.
 
-- [JITS](jits.cc) is a "shop" for the switch homebrew app [Tinfoil](tinfoil.io) which allows you to download games directly on to the switch.
+- [JITS](https://jits.cc) is a "shop" for the switch homebrew app [Tinfoil](https://tinfoil.io) which allows you to download games directly on to the switch.
 
 ### Sigpatches
 
