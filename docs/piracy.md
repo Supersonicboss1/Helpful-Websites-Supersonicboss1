@@ -18,7 +18,6 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 - The [Paradox Laucher CreamAPI Crack](https://mega.nz/folder/45YBwIxZ#fsZNZZu9twY2PVLgrB86fA) allows you to play pirated versions of the DLC for Cities Skylines and other paradox games, without owning them.
 
-
 # Nintendo Switch
 
 ## Piracy
@@ -29,10 +28,12 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 - The [SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Subreddit contains many game NSPs, and can be helpful if NXbrew happens to either not have it, or its link is down. Keep in mind older games's links will often not work.
 
+- [JITS](jits.cc) is a "shop" for the switch homebrew app [Tinfoil](tinfoil.io) which allows you to download games directly on to the switch.
+
 ### Sigpatches
 
 These Signature patches are for different boot methods, either fusee-primary, or hekate. These are frequently DMCA'd, so these links may no longer work.
 
 - The [fusee-primary](https://gbatemp.net/threads/sigpatches-for-atmosphere-fusee-primary-only.567542/) patches are made by Ibcap
 
-- The [Hekate](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543) patches are by HarukoNX, maintained by ShadowOne333.
+- The [Hekate](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543) patches are by various users, and the links are maintained by ShadowOne333.
