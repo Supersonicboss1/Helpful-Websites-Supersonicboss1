@@ -36,6 +36,8 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 These Signature patches are for different boot methods, either fusee-primary, or hekate. These are frequently DMCA'd, so these links may no longer work.
 
-- The [fusee-primary](https://gbatemp.net/threads/sigpatches-for-atmosphere-fusee-primary-only.567542/) patches are made by Ibcap
+- The [fusee-primary](https://github.com/ITotalJustice/patches/releases) patches are hosted by ITotalJustice
 
 - The [Hekate](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543) patches are by various users, and the links are maintained by ShadowOne333.
+
+- An easy option for signature patches is [AutoIPS.](https://gbatemp.net/threads/autoips-sig-patcher.574126/) To use this, simply place your fusee-secondary.bin file into the AutoIPS directory, and run the Runme.bat file. This will generate a .ips file and instructions for patching hekate. Just place the .ips file into "/atmosphere/kip_patches/loader_patches/", and add the patch to "/bootloader/patches.ini" if you are using Hekate.
