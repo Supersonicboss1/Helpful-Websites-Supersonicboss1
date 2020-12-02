@@ -2,7 +2,7 @@
 
 ## General
 
-- [Ventoy](https://www.linuxliveusb.com/) is a helpful tool for creating Linux USB drives, and supports multiple OSes on one drive. Unlike other solutions, this simply creates a bootloader on your USB, and you can place the ISOs anywhere on your USB, along with any other files you want, all on one partition.
+- [Ventoy](https://www.ventoy.net/en/index.html) is a helpful tool for creating Linux USB drives, and supports multiple OSes on one drive. Unlike other solutions, this simply creates a bootloader on your USB, and you can place the ISOs anywhere on your USB, along with any other files you want, all on one partition.
 
 - [Tile Iconifier](https://github.com/Jonno12345/TileIconifier) is a tool to turn any applitation into a live tile.
 
