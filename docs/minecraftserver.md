@@ -28,21 +28,19 @@ Lubuntu is really a better option here, as while Ubuntu is pretty, intuitive, an
 
 Next, you're going to want to **install [Etcher](https://www.balena.io/etcher/) onto your working computer**. This is the program that puts that file you just downloaded onto your flash drive in such a way that you can use it to install Linux. **Plug in your flash drive, start up Etcher, select "flash from file", and select the file you just downloaded. Wait for the process to finish, and once it has, turn off your old computer if it isn't already.**
 
-Plug your etcher-ified flash drive into your old computer with it still off. Now turn it on. **What comes next is one of the only parts of this tutorial where it varies significantly from computer to computer.** You need to get into your BIOS, a sort of secret settings menu that modifies and manages the very basic and low-level parts of your computer such as, y'know, turning on. The problem is that not everyone agrees on how the user should be able to get there. **The moment your screen lights up, immediately start mashing the f1, f2, escape, delete, and f12 keys,** as these are the most common ones that computer manufacturers use to access this menu. 
+Plug your flash drive into your old computer with it still off. Now turn it on. **What comes next is one of the only parts of this tutorial where it varies significantly from computer to computer.** You need to get into your BIOS, a sort of secret settings menu that modifies and manages the very basic and low-level parts of your computer such as, y'know, turning on. The problem is that not everyone agrees on how the user should be able to get there. **The moment your screen lights up, immediately start mashing the *f1, f2, escape, delete, and f12 keys*,** as these are the most common ones that computer manufacturers use to access this menu. 
 
-If you did it right, you should see a new screen pop up, and sometimes you'll hear a little bloop as well. **Navigate through the menus with the on-screen instructions until you find some sort of "boot" section.** Here there are a couple things you want to do. **You want to disable anything that's labelled "fast boot" and "secure boot"** (no i'm not trying to slow you down or give you a virus), because these are features that can sometimes interfere with being able to modify your computer like this. **Next, you should see some sort of "boot order" where it lists its priority for devices that it should try to boot from. If it isn't already there, move your flash drive to the top of the list.** From here, do whatever the "save and exit" button is for your computer (it will tell you), and if it tries to reboot, turn it off by holding down the power button midway through. From here, re-insert your flash drive and turn it back on again.
+If you did it right, you should see a new screen pop up. **Navigate through the menus with the on-screen instructions until you find some sort of "boot" section.** Here there are a couple things you want to do. **You want to disable anything that's labelled "fast boot" and "secure boot"**, because these are features that can sometimes interfere with being able to modify your computer like this. **Next, you should see some sort of "boot order" where it lists its priority for devices that it should try to boot from. If it isn't already there, move your flash drive to the top of the list.** From here, do whatever the "save and exit" button is for your computer (it will tell you), and if it tries to reboot, turn it off by holding down the power button midway through. From here, re-insert your flash drive and turn it back on again.
 
-**If all went well, instead of your normal windows 10 spinning ring, as it starts up you should see something labeled Ubuntu/Lubuntu that looks completely different. Just leave it still for a while, and let it boot up into a desktop. If it doesn't do this on its own, press enter the first opportunity you get.** Read whatever welcome message it gives you, and poke around for a while, if you like. This is a fully functioning desktop environment that comes with Firefox and a couple other things installed for you to use. Get comfortable with the interface, **sign into wifi if using a laptop** (if you can't find any option to then you may simply be out of luck, as a certain few laptops have wifi cards that just refuse to work with linux), and when you're ready, click the "install ubuntu/lubuntu" dekstop icon or button.
+**If all went well, you should see something labeled Lubuntu that looks completely different. Just leave it still for a while, and let it boot up. If it doesn't do this on its own, press enter the first opportunity you get.** Read whatever welcome message it gives you, and poke around for a while, if you like. This is a fully functioning desktop environment that comes with Firefox and a couple other things installed for you to use. Get comfortable with the interface, **sign into wifi if using a laptop** (if you can't find any option to then you may simply be out of luck, as a certain few laptops have wifi cards that just refuse to work with linux), and when you're ready, click the "install lubuntu" dekstop icon or button.
 
 **Follow the installer's simple instructions. When you're able to make a choice, you are going to want to select "erase entire disk". On the following screens, set your computer name (don't use spaces), username and password (make it a strong one!), and when given the opportunity, definitely check the "log in automatically" box. If you're doing Ubuntu, check the "minimal installation" box when you see it. Let the installer work its magic, which should only take around 11 minutes, and when it's finished, do as it says and turn the computer off and removing the flash drive.**
-
-**Congratulations! The "hard part" is over. Now we can get to the Minecraft portion!**
 
 ## **The Minecraft Server**
 
 ### Installing Java
 
-**Boot up your now-linux computer**. **Connect to the internet** if you haven't already. **Open up a terminal window** (by searching for it in the start menu in the bottom left of your screen, or by pressing the windows key and starting to type). You're going to **type in a handful of basic commands** for which there are easy, familiar point-and-click alternatives already built into your system, but because I'm a nerd I'm more used to these methods and you really only have to follow my lead. **If you want to copy-paste these from a browser window on your old computer, use ctrl+shift+c and ctrl+shift+v instead of your normal keyboard shortcuts,** as simple ctrl+c and ctrl+v have different meanings to a linux terminal.
+**Boot up your computer**. **Connect to the internet** if you haven't already. **Open up a terminal window** (by searching for it in the start menu in the bottom left of your screen, or by pressing the windows key and starting to type). You're going to **type in a handful of basic commands**. **If you want to copy-paste these from a browser window on your old computer, use ctrl+shift+c and ctrl+shift+v instead of your normal keyboard shortcuts,** as simple ctrl+c and ctrl+v have different meanings to a linux terminal.
 
 Type in the following one after another to fully update your computer before we do anything else:
 
@@ -59,15 +57,27 @@ When this is done, we're going to want a new folder to keep all of our Minecraft
 ```mkdir mcserv```
 
 ### **Setting up your server**
-The stage is set. Time to download more stuff! There are various ways you can run a minecraft server depending on your needs and wants. You should note these are **not compatible with each other,** you can only run one at a time.
+There are various ways you can run a minecraft server depending on your needs and wants. You should note these are **not compatible with each other,** you can only run one at a time.
 
 #### **Fabric**
 
-Fabric is a lightweight mod loader that is very performant and a good option for beginners and small server, or if you want to use fabric mods.
+Fabric is a lightweight mod loader that is very performant and a good option for beginners and small server, or if you want to use fabric mods. This tutorial only covers vanilla, but if you wanted to do modded minecraft, this installation method gives you a really easy way to do so later down the line.
 
-On your old computer, go to https://fabricmc.net/use/?page=server. Fabric is a Minecraft mod loader framework that also happens to be very good at easily setting up vanilla servers. This tutorial only covers vanilla, but if you wanted to do modded minecraft, this installation method gives you a really easy way to do so later down the line.
+To install fabric, run these commands one after another into your terminal:
 
-Take the .jar file you just downloaded from your Downloads folder and in your Files app, move it (drag and drop or use `mv` commands if you know what you're doing) to the mcserv folder you just made. Go back to your terminal, type `cd mcserv` to open that folder, and then type `java -jar fabric-installer-0.7.4.jar server -downloadMinecraft`. When it's done, a few more files should have shown up in that folder. Start the server with `java -jar fabric-server-launch.jar` (you will do this every time to start the server up from now on) and wait for the error message. Edit the eula file to have `eula=true` in it, and congratulations, **you have just finished installing a minimal Minecraft Fabric server on your old computer!**
+`cd mcserv`
+
+This changes the current folder the terminal is in to your minecraft server.
+
+`curl https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar -o installer.jar` 
+
+This command downloads the Fabric installer to a file called `server.jar`.
+
+`java -jar installer.jar server -downloadMinecraft`
+
+This command downloads the minecraft server files.
+
+When it's done, a few more files should have shown up in that folder. Start the server with `java -jar fabric-server-launch.jar` (you will do this every time to start the server up from now on) and wait for the error message. Edit the eula file to have `eula=true` in it, and congratulations, **you have just finished installing a minimal Minecraft Fabric server on your old computer!**
 
 #### **Forge**
 
@@ -81,7 +91,7 @@ Purpur is a fork (built on top of) of Tuinity, which is a fork of Paper, which i
 
 Purpur will have much better performance than Vanilla and Forge, and similar performance to fabric with performance mods. The main reason to use Purpur is for **plugins.**
 
-Plugins are similar to mods, with two key differences. First, **plugins are usually version agnostic**, meaning that they tend to work on almost any minecraft version released **after the plugin.** Second, **they never need to be installed on the client,** meaning your players will never need anything other than regular minecraft. While both Forge and Fabric have mods which also do this, there are many mods which need to be installed on both the client and server, and will cause errors if they are not.
+Plugins are similar to mods, with two key differences. First, **plugins are usually version agnostic**, meaning that they tend to work on almost any minecraft version released **after the plugin.** Second, **they never need to be installed on the client,** meaning your players will never need anything other than regular minecraft. While both Forge and Fabric have mods which also do this (see end of guide for fabric examples), there are many mods which need to be installed on both the client and server, and will cause errors if they are not.
 
 ## **Managing your server**
 
@@ -112,7 +122,7 @@ We now have a perfectly functional 1.17 minecraft server, but a barebones one. T
 Your server also has a server.properties file that you can edit for all kinds of special settings that are detailed on the [wiki](https://minecraft.fandom.com/wiki/Server.properties). To edit text files over SSH, use `nano filename`, and use the hints on screen for keyboard shortcuts, because they'll be different from what you're used to.
 
 ### Let your friends connect over the internet
-For one thing, **you're going to want to port forward in order to allow friends who aren't on your home wifi network to connect over the internet**. This is a process that differs a lot from router to router, but essentially, you're going to want to find some quick tutorial online and edit your router settings accordingly. **To see if it worked, go to https://canyouseeme.org/ and type in port 25565. If it worked, the IP under "your IP" is what you're going to give to your friends to connect.**
+For one thing, **you're going to want to port forward in order to allow friends who aren't on your home wifi network to connect over the internet**. This is a process that differs a lot from router to router, but essentially, you're going to want to find some quick tutorial online and edit your router settings accordingly. **To see if it worked, go to https://canyouseeme.org/ and type in port 25565 while the minecraft server is running. If it worked, the IP under "your IP" is what you're going to give to your friends to connect.**
 
 ### Vanilla-friendly mods and tweaks on Fabric
 Like I mentioned earlier, FabricMC is great for running modded minecraft servers, if that's your plan. You simply need to drop the .jar that you download from curseforge or wherever else into the "mods" folder, and then make sure that all of your friends also have that mod installed. To get files onto your server from your normal computer, the easiest option would be to open up powershell, then type `pscp <path-to-file-on-your-computer> SERVERUSERNAME@SERVERHOSTNAME:/home/<path-to-where-you-want-to-send-the-file>`. For mods, the latter half of the command will be `/home/mcserv/mods`, while for datapacks it will be `/home/mcserv/world/datapacks`.
