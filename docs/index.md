@@ -7,3 +7,5 @@ This is a collection of helpful websites I have found for various things, such a
 - [Nintendo Switch](nx.md)
 - [PC](pc.md)
 - [Piracy](piracy.md)
+### Minecraft Guides
+- [Setting up a Minecraft Server](minecraftserver.md)
