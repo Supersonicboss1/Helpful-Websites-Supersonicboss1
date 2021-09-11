@@ -8,5 +8,7 @@
 - Wii U
 
 For Switch:
+
 <https://nh-server.github.io/switch-guide/>
+
 <https://rentry.org/SwitchHackingIsEasy>

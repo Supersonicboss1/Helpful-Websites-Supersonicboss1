@@ -23,5 +23,3 @@ All of these will require a save exporter such as [JKSV.](https://github.com/J-D
 - [NHSE](https://github.com/kwsch/NHSE) also allows you to edit your AC:NH save game easily!
 - [SplatHeX](https://github.com/Leanny/leanny.github.io/blob/master/SplatHeX.zip) also allows you to edit your Splatoon and Splatoon 2 save files! Keep in mind this hasn’t been updated in a while and may not work.
 - [Marc Robeldo’s BotW Save Editor](https://www.marcrobledo.com/savegame-editors/zelda-botw/) is an online save editor for The Legend of Zelda: Breath of the Wild!
-
-## [Switch Piracy](piracy.md#Nintendo-Switch)

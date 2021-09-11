@@ -2,6 +2,12 @@
 
 This site is more intended for more niche or gaming-related piracy sites, for everything else visit [Awesome-Piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) on GitHub
 
+**If you are doing anything related to piracy, use an adblocker.** 
+
+I recommend [uBlock Origin](https://github.com/gorhill/uBlock) 
+
+![https://github.com/gorhill/uBlock](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png)
+
 # PC
 
 - CreamAPI is a Steam drm bypass for DLC. It only works if the DLC files already exist in your files, and need to be edited for specific games.
@@ -60,8 +66,8 @@ Host: nekoshop.cf
 
 ### Sigpatches
 
-These Signature patches are for different boot methods, either fusee-primary, or hekate. These are frequently DMCA’d, so these links may no longer work.
+These Signature patches are for installing unsigned games or homebrew. These are frequently DMCA’d, so these links may no longer work.
 
-- The [fusee-primary and hekate](https://github.com/ITotalJustice/patches/releases) patches are hosted by ITotalJustice
+- The [signature patches](https://github.com/ITotalJustice/patches/releases) are hosted by ITotalJustice on GitHub.
 
-- An easy option for signature patches is [AutoIPS.](https://gbatemp.net/threads/autoips-sig-patcher.574126/) To use this, simply place your fusee-secondary.bin file into the AutoIPS directory, and run the Runme.bat file. This will generate a .ips file and instructions for patching hekate. Just place the .ips file into “/atmosphere/kip_patches/loader_patches/”, and add the patch to “/bootloader/patches.ini” if you are using Hekate.
+- An easy-ish option for signature patches is [AutoIPS.](https://gbatemp.net/threads/autoips-sig-patcher.574126/) To use this, simply place your package3 file into the AutoIPS directory, and run the Runme.bat file. This will generate a .ips file and instructions for patching hekate. Just place the .ips file into “/atmosphere/kip_patches/loader_patches/”, and add the patch to “/bootloader/patches.ini” if you are using Hekate. (As of Atmosphere 1.0.0 I do not know if this still works.)

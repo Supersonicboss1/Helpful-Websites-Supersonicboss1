@@ -1,6 +1,6 @@
 # Emulators
 
-This will detail places to get files for emulation, such as system firmware, and where to get the games
+This will detail places to get files for emulation, such as system firmware, and where to get the games.
 
 ## Dolphin
 
@@ -12,4 +12,4 @@ CEMU is very easy, just download [Wii U USB Helper Launcher](https://github.com/
 
 ## Ryujinx/Yuzu
 
-Also fairly easy if you know where to look. If you have a switch, the tinfoil shops listed [Switch Piracy](piracy.md#Tinfoil) have many games which you can then dump with a tool such as [nxdumptool.](https://github.com/DarkMatterCore/nxdumptool/releases) A great source for the files with no dumping needed is the [Remastered](https://discord.gg/tuT59S2zcv) Discord server, and [NXBrew.](https://nxbrew.org) Also see [Switch Piracy](piracy.md#Nintendo-Switch)
+Also fairly easy if you know where to look. If you have a switch, the tinfoil shops listed [Switch Piracy](piracy.md#Tinfoil) have many games which you can then dump with a tool such as [nxdumptool.](https://github.com/DarkMatterCore/nxdumptool/releases) A great source for the files with no dumping needed is the [Remastered](https://discord.gg/tuT59S2zcv) Discord server, and [NXBrew.](https://nxbrew.org) Also see the [piracy](piracy.md) section for Switch.
