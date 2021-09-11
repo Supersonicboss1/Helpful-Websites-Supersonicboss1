@@ -1,3 +1,5 @@
+# Piracy
+
 This site is more intended for more niche or gaming-related piracy sites, for everything else visit [Awesome-Piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) on GitHub
 
 # PC
@@ -20,8 +22,8 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 - [NXBrew](https://nxbrew.com/) is a piracy site containing most games you would want for switch, in DDL and torrent form.
 
 - The [Switch Pirates](https://www.reddit.com/r/SwitchPirates/) Subreddit contains many things related to piracy, and can be very helpful if you run into any issues.
-- 
- ## Tinfoil
+
+## Tinfoil
 
 [Tinfoil](https://www.tinfoil.io/) is a homebrew app which allows you to download games directly on to the switch. You simply enter the below links into Tinfoil, and you can start downloading.
 (Links are to the discord servers of the respective shops)
