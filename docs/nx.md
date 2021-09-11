@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 # Nintendo Switch
 
->>>>>>> 0e806454a5ec82f800870089769040d699f27050
 Almost all of these will be related to Switch hacking in some way, and likely not stock Switches.
 
 ## General

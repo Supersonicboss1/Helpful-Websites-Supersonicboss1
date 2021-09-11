@@ -50,8 +50,9 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
     Protocol: https
     Host: rebrand.ly
-	
+
 **[Nekoshop](https://discord.gg/pytKu48eMk)**
+
 ```
 Protocol: https
 Host: nekoshop.cf
