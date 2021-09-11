@@ -6,7 +6,7 @@ This site is more intended for more niche or gaming-related piracy sites, for ev
 
 I recommend [uBlock Origin](https://github.com/gorhill/uBlock) 
 
-![https://github.com/gorhill/uBlock](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png)
+![](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png)
 
 # PC
 
