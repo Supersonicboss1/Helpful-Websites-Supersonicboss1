@@ -1,0 +1,17 @@
+# Managing your server
+
+So, if you really wanted to, you could be done here. You could turn on this old computer, hook up a keyboard and monitor at all times, and run `cd mcserv` and `java -jar fabric-server-launch.jar` manually every time you want to boot up your server. But there are better ways of running a minecraft server, chief among them being going headless. In server terminology, "headless" means not connected to any peripherals (keyboard, mouse, monitor, etc). This is the ideal for servers, Minecraft or not, because they're meant to be left running passively for long periods of time.
+
+## SSH
+
+SSH (or Secure Shell) is a protocol for securely sending commands (like you've been doing) over a network, from one computer to another. **To allow SSH connections into our server, we are going to have to run `sudo systemctl enable` and then `sudo systemctl start ssh`. Then, to allow it through our firewall, we will run `sudo ufw allow ssh`. If this command gives an error, don't worry about it and move on to the next.**
+
+Now that we have an SSH server set up, **we need an SSH client**: a piece of software that knows how to talk to our server and send commands to it. There are a lot of solutions for this, including [browser extensions](https://chrome.google.com/webstore/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd) and built-in command line tools that come with Linux and MacOS. But **for windows users, the best option is probably PuTTY, which you can download [here.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+
+Once PuTTY is open, **set the connection type to SSH, the hostname to your server's hostname, and the port to 22. Click Open, log in with your server's username and password, and congratulations!** You're back at the terminal, except from another computer, and you can now go headless and unplug the keyboard, monitor, mouse, and whatever else from your server. **It will automatically log in whenever you boot it up, and instead of using clunky peripherals every time to manage your server, you can simply remotely log in with PuTTY** after waiting a few minutes for it to boot.
+
+## Screen
+
+We have a problem. **We can start the Minecraft part of the server with the same command as always, but if we close the PuTTY window after doing this, the Minecraft server will go down**. We don't want Minecraft to depend on whatever window it's being run from: we want to start it, leave it be, and check in on it when we need to.
+
+**To accomplish this, we are using a program called `screen`**. It creates virtual "screens" for commands to run inside of that can be switched between at ease. We installed this earlier, so **go ahead and type `screen -S minecraft`** to create a new screen called "minecraft". **We are going to want to do this every time the computer itself is restarted. To access this screen, type `screen -r`,** which will bring you to a new (but now empty) terminal view. From this we will t**ype `cd mcserv` to switch to the Minecraft server's folder, and then we will run our regular java command to start the server** as always. If you plan on in any way exiting this window or closing PuTTY or shutting down your server, **do ctlr+a and then ctrl+d to "detach" this screen** and return you to the terminal window you were just at. **Remember those two commands: `screen -r` enters the Minecraft screen which has your console on it, while ctrl+a+d returns you to the normal command line for system maintenance.**
